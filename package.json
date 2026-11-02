@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Six Bureau Obscura browser investigation games with branching recoveries and evidence puzzles.",
   "keywords": ["game", "browser-game", "puzzle-game", "interactive-fiction", "choose-your-own-adventure"],
-  "repository": {"type": "git", "url": "https://github.com/BureauObscura/Field-Deployments.git"},
+  "repository": {"type": "git", "url": "https://github.com/SpacelyDigital/Field-Deployments.git"},
   "engines": {"node": ">=22"},
   "scripts": {
     "dev": "node scripts/preview.mjs",

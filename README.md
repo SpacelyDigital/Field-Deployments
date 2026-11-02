@@ -18,7 +18,7 @@ Six Bureau Obscura browser games about investigating anomalies, recovering senso
 Install Node.js 22 or newer and Python 3. No package installation is required.
 
 ```sh
-git clone https://github.com/BureauObscura/Field-Deployments.git
+git clone https://github.com/SpacelyDigital/Field-Deployments.git
 cd Field-Deployments
 npm run dev
 ```
